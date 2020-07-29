@@ -12,35 +12,35 @@ Keras-Preprocessing                1.1.0
 **/
 ```
 
-**1.13.0rc1**
+#### **1.13.0rc1**
 
 ImportError: cannot import name '**keras_export**' from 'tensorflow.python.util.tf_export' (D:\anaconda\lib\site-packages\tensorflow\python\util\tf_export.py)
 
-**1.13.0rc2**
+#### **1.13.0rc2**
 
 ImportError: cannot import name '**keras_export**' from 'tensorflow.python.util.tf_export' (D:\anaconda\lib\site-packages\tensorflow\python\util\tf_export.py)
 
-**1.13.1**
+#### **1.13.1**
 
 ImportError: cannot import name '**keras_export**' from 'tensorflow.python.util.tf_export' (D:\anaconda\lib\site-packages\tensorflow\python\util\tf_export.py)
 
-**1.13.2**
+#### **1.13.2**
 
 ImportError: cannot import name '**keras_export**' from 'tensorflow.python.util.tf_export' (D:\anaconda\lib\site-packages\tensorflow\python\util\tf_export.py)
 
-**1.14.0rc0**
+#### **1.14.0rc0**
 
 ImportError: cannot import name '**export_saved_model**' from 'tensorflow.python.keras.saving.saved_model' (D:\anaconda\lib\site-packages\tensorflow\python\keras\saving\saved_model\__init__.py)
 
-**1.14.0rc1**
+#### **1.14.0rc1**
 
 ImportError: cannot import name '**export_saved_model**' from 'tensorflow.python.keras.saving.saved_model' (D:\anaconda\lib\site-packages\tensorflow\python\keras\saving\saved_model\__init__.py)
 
-**1.14.0**
+#### **1.14.0**
 
 ImportError: cannot import name '**export_saved_model**' from 'tensorflow.python.keras.saving.saved_model' (D:\anaconda\lib\site-packages\tensorflow\python\keras\saving\saved_model\__init__.py)
 
-**1.15.0rc0**
+#### **1.15.0rc0**
 
 2020-07-29 21:48:54.671070: W tensorflow/stream_executor/platform/default/dso_loader.cc:55] Could not load dynamic library 'cudart64_100.dll'; dlerror: cudart64_100.dll not found
 2020-07-29 21:48:54.681502: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.
@@ -57,39 +57,57 @@ Traceback (most recent call last):
     import tensorflow.contrib.tensorrt as trt
 ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
 
-**1.15.0rc1**
+#### **1.15.0rc1**
 
 ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
 
-**1.15.0rc2**
+#### **1.15.0rc2**
 
 ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
 
-**1.15.0rc3**
+#### **1.15.0rc3**
 
 ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
 
-**1.15.0**
+#### **1.15.0**
 
+ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
 
+#### **1.15.2**
 
-**1.15.2**
+ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
 
-**1.15.3**
+#### **1.15.3**
 
-**2.0.0a0**
+ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
 
-**2.0.0b0**
+#### **2.0.0a0**
 
-**2.0.0b1**
+ImportError: cannot import name '**export_saved_model**' from 'tensorflow.python.keras.saving.saved_model' (D:\anaconda\lib\site-packages\tensorflow\python\keras\saving\saved_model\__init__.py)
 
-**2.0.0rc0**
+#### **2.0.0b0**
 
-**2.0.0rc1**
+ImportError: cannot import name '**export_saved_model**' from 'tensorflow.python.keras.saving.saved_model' (D:\anaconda\lib\site-packages\tensorflow\python\keras\saving\saved_model\__init__.py)
 
-**2.0.0rc2**
+#### **2.0.0b1**
 
-**2.0.0**
+ImportError: cannot import name '**export_saved_model**' from 'tensorflow.python.keras.saving.saved_model' (D:\anaconda\lib\site-packages\tensorflow\python\keras\saving\saved_model\__init__.py)
+
+#### 2.0.0rc0
+
+ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
+
+#### **2.0.0rc1**
+
+ModuleNotFoundError: No module named '**tensorflow.contrib**'
+
+#### **2.0.0rc2**
+
+ModuleNotFoundError: No module named '**tensorflow.contrib**'
+
+#### **2.0.0**
+
+ModuleNotFoundError: No module named '**tensorflow.contrib**'
 
 **2.0.1**
 
@@ -103,7 +121,9 @@ ModuleNotFoundError: No module named '**tensorflow.contrib.tensorrt**'
 
 **2.1.0**
 
-**2.1.1**
+#### **2.1.1**
+
+ModuleNotFoundError: No module named '**tensorflow.contrib**'
 
 **2.2.0rc0**
 
